@@ -1,0 +1,70 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+.background{
+    background-color: #a80f23;
+    height: 32vh;
+    }
+    .form-group {
+        margin-bottom: 15px;
+    }
+    .centered {
+ 
+        text-align: center;
+      }
+      .example-loading-shade:before {
+        content: '';
+        display: block;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(219, 217, 217, 0.527);
+      }
+.cardcolor {
+    background: beige;
+}
+// .example-radio-group {
+//     display: flex;
+//     flex-direction: column;
+//     margin: 15px 0;
+//   }
+  .form-group {
+    display: flex;
+    flex-direction: column;
+  }
+  .form-group .mat-radio-button {
+    margin: 0 12px;
+  }
+
+  .test {
+    width: 75%;
+    margin: auto;
+    margin-top: -26vh;
+    margin-right: auto;
+   // margin-bottom: auto;
+    margin-left: auto;
+    margin-top: -26vh;
+    background: beige;
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: beige;
+    padding: 2%;
+    padding-top: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+    padding-left: 2%;
+    border-radius: 7px;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+    border-bottom-left-radius: 7px;
+  }
